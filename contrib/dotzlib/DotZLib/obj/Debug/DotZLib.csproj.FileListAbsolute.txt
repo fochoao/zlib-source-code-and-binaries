@@ -1,0 +1,7 @@
+C:\cpython\externals\zlib-1.2.11\contrib\dotzlib\DotZLib\bin\Debug\DotZLib.dll
+C:\cpython\externals\zlib-1.2.11\contrib\dotzlib\DotZLib\bin\Debug\DotZLib.pdb
+C:\cpython\externals\zlib-1.2.11\contrib\dotzlib\DotZLib\bin\Debug\DotZLib.xml
+C:\cpython\externals\zlib-1.2.11\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.csproj.AssemblyReference.cache
+C:\cpython\externals\zlib-1.2.11\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.csproj.CoreCompileInputs.cache
+C:\cpython\externals\zlib-1.2.11\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.dll
+C:\cpython\externals\zlib-1.2.11\contrib\dotzlib\DotZLib\obj\Debug\DotZLib.pdb
